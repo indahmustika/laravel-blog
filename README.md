@@ -16,5 +16,5 @@
 ![Screenshot (1540)](https://user-images.githubusercontent.com/55520351/89706019-63215880-d98c-11ea-93cb-49a0de59db47.png)
 
 # Other
-<p>**Note** Dashboard admin dapat diakses melalui /login dengan username admin dan password admin</p>
-<p>**Apology** Mohon maaf file dalam bentuk zip, dikarenakan terdapat files yang tidak terpush</p>
+**Note** Dashboard admin dapat diakses melalui /login dengan username admin dan password admin                         
+**Apology** Mohon maaf file dalam bentuk zip, dikarenakan terdapat files yang tidak terpush
