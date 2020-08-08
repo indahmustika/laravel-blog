@@ -1,4 +1,4 @@
-# Aplikasi Simple Content Management System berbasis Laravel
+# Simple Content Management System berbasis Laravel
 
 1. Daftar artikel berisi title, excerpt serta thumbnail
 2. Detail artikel berisi title, thumbnail, content, date serta author
